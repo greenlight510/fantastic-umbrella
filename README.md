@@ -24,7 +24,8 @@ npm i sequelize & npm i mysql2
 
 ## Walkthrough
 
-N/A
+https://drive.google.com/file/d/1gg0D-gGvHs7lLOWFr4bTn45TZdn22z1Z/view?usp=sharing
+
 
 ## License
 
